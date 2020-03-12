@@ -30,8 +30,8 @@ def remove_element_from_start_of_array(create_an_array)
   
 end
 
-def retrieve_element_from_index(create_an_array, zero)
-  create_an_array[0] 
+def retrieve_element_from_index(create_an_array, 0)
+  create_an_array["salt"] 
   
 
   
